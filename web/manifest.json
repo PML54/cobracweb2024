@@ -1,11 +1,11 @@
 {
-    "name": "prefecto",
-    "short_name": "prefecto",
+    "name": "cobrac",
+    "short_name": "cobrac",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "prefecto",
+    "description": "cobrac mini",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
